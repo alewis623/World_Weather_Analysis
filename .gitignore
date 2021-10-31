@@ -1,6 +1,7 @@
 # Adding config.py file.
 config.py
 # Adding additional files
+/Weather_Database/config.py
 API Key list.py
 API_practice.ipynb
 random_numbers.ipynb
