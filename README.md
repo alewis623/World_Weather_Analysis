@@ -1,6 +1,6 @@
 # World_Weather_Analysis
 ## Purpose
-This project was desined to create an introduction of API's and an example use case. 
+By using API's and variables determine location to travel for vacation, set an iterary and use API's to grab hotel informaiton. 
 ## Resources
 Software: Juypter Notebook 6.3.0, Python Virtual environment 3.7.10 named PythonData. Pandas libraries were also used in this analysis. API resources from Open weather: https://openweathermap.org/api and Google Cloud API: https://www.mapspeople.com/blog/mapsindoors/google-maps-api-description/?. gmaps were also imported
 ## Project Outcomes
